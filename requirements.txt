@@ -3,12 +3,5 @@ Flask-PyMongo==2.3.0
 json5==0.9.5
 jsonschema==3.2.0
 mysqlclient==2.0.2
-pandas @ file:///C:/ci/pandas_1592833613419/work
-py @ file:///tmp/build/80754af9/py_1593446248552/work
 pymongo==3.11.2
 PyMySQL==0.10.1
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1594397536060/work
-python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-scipy @ file:///C:/ci/scipy_1592916963468/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1593445271541/work
