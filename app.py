@@ -9,8 +9,6 @@ def index():
     # use render_template to serve up the index.html
     return render_template('index.html')
 
-@app.route("/samples")
-def samples():
     # open the json file, located at static/data/samples.json
     with open('static/data/samples.json') as f:
     # use json.load() to read in the file as json
