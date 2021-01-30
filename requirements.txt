@@ -1,7 +1,0 @@
-Flask==1.1.2
-Flask-PyMongo==2.3.0
-json5==0.9.5
-jsonschema==3.2.0
-mysqlclient==2.0.2
-pymongo==3.11.2
-PyMySQL==0.10.1
